@@ -1,6 +1,6 @@
 # Project: Explore and Summarize Data
 
-For this project, the goal was to perform Exploratory Data Analysis (EDA)  techniques to explore a data set for distributions, outliers, and anomalies by analyzing one, two, and multiple variables. This was an open-ended project, meaning there was no one right answer. The dataset I used was provided as already cleaned and contained white wine attributes and a quality score made by taste testers.
+For this project, the goal was to perform Exploratory Data Analysis (EDA)  techniques to explore a data set for distributions, outliers, and anomalies by analyzing one variable, two variables, and multiple variables. This was an open-ended project, meaning there was no one right answer. The dataset I used was provided as already cleaned and contained white wine attributes and a quality score made by taste testers.
 
 This project was completed using R and RStudio, along with several libraries, most notably `ggplot2`. By the very nature of EDA, the document is quite long; I created almost 70 different visualizations, statistical analyses for individual variables, plus my written observations. Even though the report is long, it is divided into sections for univariate, bivariate, and multivariate analysis, and includes a floating table of contents that allows for easy navigation.
 
